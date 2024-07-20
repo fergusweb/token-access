@@ -1,9 +1,14 @@
 === Token Access ===
+Author:             Anthony Ferguson
+Author URI:         https://www.ferguson.codes
 Contributors:		ajferg
+Requires at least:	5.0
+Tested up to:		6.6
+Stable tag:			1.8.0
+Requires PHP:       7.4
+License:            GPLv3 or later
+License URI:        https://www.gnu.org/licenses/gpl-3.0.html
 Tags:				private, cookie, access, public, whitelist, developer
-Requires at least:	3.0
-Tested up to:		5.4.1
-Stable tag:			1.6.3
 
 Limit access to the site to those with a cookie token.  Visitors without the cookie see a customisable "coming soon" style of page.
 
