@@ -1,5 +1,6 @@
 assets/*.psd
 node-modules
 .distignore
+.github
 .gitignore
 .wp-env.json
