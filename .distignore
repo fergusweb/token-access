@@ -1,0 +1,5 @@
+assets/*.psd
+node-modules
+.distignore
+.gitignore
+.wp-env.json
