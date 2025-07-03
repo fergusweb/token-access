@@ -4,7 +4,7 @@ Author URI:         https://www.ferguson.codes
 Contributors:		ajferg
 Requires at least:	6.0
 Tested up to:		6.6
-Stable tag:			1.8.1
+Stable tag:			1.8.2
 Requires PHP:       7.4
 License:            GPLv3 or later
 License URI:        https://www.gnu.org/licenses/gpl-3.0.html
@@ -33,6 +33,9 @@ This plugin is useful when you're developing your site.  You can work on your li
 1. You can change settings or customise your 'coming soon' content here.
 
 == Changelog ==
+
+= 1.8.2 =
+* Fix error with ?letmein operation
 
 = 1.8.1 =
 * Version bump for build process

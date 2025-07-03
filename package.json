@@ -1,6 +1,6 @@
 {
   "name": "token-access",
-  "version": "1.8.0",
+  "version": "1.8.2",
   "repository": "https://github.com/fergusweb/token-access",
   "license": "GPL-3.0",
   "scripts": {

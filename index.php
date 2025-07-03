@@ -11,7 +11,7 @@
  * Plugin Name:		Token Access
  * Plugin URI:		https://www.ferguson.codes/software/token-access/
  * Description:		Limit access to the site to those with a cookie token, set through a special link. Visitors without the cookie see a customisable "coming soon" style of page. To remove protection, simply disable this plugin.
- * Version:			1.8.0
+ * Version:			1.8.2
  * Author:			Anthony Ferguson
  * Author URI:		http://www.ferguson.codes
  * License:     	GPLv3 or later

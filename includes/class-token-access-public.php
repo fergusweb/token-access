@@ -109,7 +109,7 @@ class Token_Access_Public {
 	 */
 	private function add_token() {
 		$cookie_key    = get_option( 'tokenaccess_token_key', Token_Access::$cookie_key );
-		$expires_hours = get_option( 'tokenaccess_expiry_hours', Token_Access::$expires_hours );
+		$expires_hours = get_option( 'tokenaccess_expiry_hours', Token_Access::$expire_hours );
 		$expires       = time() + ( $expires_hours * 60 * 60 );
 		setcookie( $cookie_key, md5( $_SERVER['REMOTE_ADDR'] ), $expires, '/' );  // phpcs:ignore
 	}
